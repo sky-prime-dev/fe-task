@@ -1,7 +1,7 @@
 # Frontend Technical Task – Vanilla JavaScript Dashboard
 
 ## Overview
-Your task is to create a small, responsive dashboard using only vanilla JavaScript, HTML, and CSS. The focus is on clean code and structure. No frameworks or libraries are allowed.
+Your task is to create a small, responsive dashboard using only vanilla JavaScript, HTML, and CSS. The focus is on clean code and structure. No AI, frameworks or libraries are allowed.
 
 ## Requirements
 
@@ -29,6 +29,7 @@ Your task is to create a small, responsive dashboard using only vanilla JavaScri
 - Organize your code cleanly across multiple files if needed.
 - Use comments to explain your logic if needed.
 - Make the UI responsive for different screen sizes.
+- AI usage is not allowed.
 
 ## Time Estimate
 This task should take approximately 3–4 hours. Please don’t overengineer — focus on clarity and functionality.
